@@ -4,9 +4,9 @@ import path from "path";
 import { writeFileSync } from "fs";
 
 cloudinary.config({
-    cloud_name: "dndyttpfh",
-    api_key: "249964259886213",
-    api_secret: "_KNVBynQqirRNQXtujlQtF-Q-wE",
+    cloud_name: "-------------",
+    api_key: "------------------------",
+    api_secret: "-------------------",
 });
 
 export async function POST(request) {
